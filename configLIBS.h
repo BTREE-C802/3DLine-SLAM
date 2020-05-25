@@ -1,0 +1,9 @@
+#ifndef I3D_LINE3D_PP_LIBS_CONFIG_H_
+#define I3D_LINE3D_PP_LIBS_CONFIG_H_
+
+#define L3DPP_OPENMP 1
+/* #undef L3DPP_CUDA */
+/* #undef L3DPP_CERES */
+/* #undef L3DPP_OPENCV3 */
+
+#endif //I3D_LINE3D_PP_LIBS_CONFIG_H_
