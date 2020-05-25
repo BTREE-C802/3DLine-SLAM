@@ -8922,3 +8922,974 @@ good_keyframes_number: 20
 当前时刻: 152.664536s
 matchImage use time: 0.551944s
 开始记录时间: 
+开始记录时间: 
+3D重构循环第0次:
+good_keyframes_number: 5
+当前时刻: 1.234496s
+matchImage use time: 0.212310s
+reconstruct3Dlines use time: 0.035742s
+3D重构循环第1次:
+good_keyframes_number: 5
+当前时刻: 1.506170s
+matchImage use time: 0.147980s
+reconstruct3Dlines use time: 0.041146s
+3D重构循环第2次:
+good_keyframes_number: 5
+当前时刻: 1.750195s
+matchImage use time: 0.198839s
+reconstruct3Dlines use time: 0.036648s
+3D重构循环第3次:
+good_keyframes_number: 5
+当前时刻: 2.017777s
+matchImage use time: 0.136075s
+reconstruct3Dlines use time: 0.044022s
+3D重构循环第4次:
+good_keyframes_number: 5
+当前时刻: 2.260262s
+matchImage use time: 0.158844s
+reconstruct3Dlines use time: 0.042374s
+3D重构循环第5次:
+good_keyframes_number: 6
+当前时刻: 2.522766s
+matchImage use time: 0.225153s
+reconstruct3Dlines use time: 0.046476s
+3D重构循环第6次:
+good_keyframes_number: 6
+当前时刻: 2.830869s
+matchImage use time: 0.164187s
+reconstruct3Dlines use time: 0.054994s
+3D重构循环第7次:
+good_keyframes_number: 6
+当前时刻: 3.121958s
+matchImage use time: 0.217130s
+reconstruct3Dlines use time: 0.081274s
+3D重构循环第8次:
+good_keyframes_number: 6
+当前时刻: 3.481821s
+matchImage use time: 0.196532s
+reconstruct3Dlines use time: 0.079080s
+3D重构循环第9次:
+good_keyframes_number: 7
+当前时刻: 3.804717s
+matchImage use time: 0.223992s
+reconstruct3Dlines use time: 0.069759s
+3D重构循环第10次:
+good_keyframes_number: 8
+当前时刻: 4.158770s
+matchImage use time: 0.273952s
+reconstruct3Dlines use time: 0.035519s
+3D重构循环第11次:
+good_keyframes_number: 7
+当前时刻: 4.499777s
+matchImage use time: 0.175619s
+reconstruct3Dlines use time: 0.081187s
+3D重构循环第12次:
+good_keyframes_number: 8
+当前时刻: 4.804748s
+matchImage use time: 0.237673s
+reconstruct3Dlines use time: 0.106661s
+3D重构循环第13次:
+good_keyframes_number: 8
+当前时刻: 5.174078s
+matchImage use time: 0.222473s
+reconstruct3Dlines use time: 0.079430s
+3D重构循环第14次:
+good_keyframes_number: 8
+当前时刻: 5.501115s
+matchImage use time: 0.235331s
+reconstruct3Dlines use time: 0.133846s
+3D重构循环第15次:
+good_keyframes_number: 8
+当前时刻: 5.932181s
+matchImage use time: 0.288897s
+reconstruct3Dlines use time: 0.085536s
+3D重构循环第16次:
+good_keyframes_number: 8
+当前时刻: 6.355193s
+matchImage use time: 0.240394s
+reconstruct3Dlines use time: 0.140159s
+3D重构循环第17次:
+good_keyframes_number: 9
+当前时刻: 6.795959s
+matchImage use time: 0.410886s
+reconstruct3Dlines use time: 0.140078s
+3D重构循环第18次:
+good_keyframes_number: 9
+当前时刻: 7.387499s
+matchImage use time: 0.282243s
+reconstruct3Dlines use time: 0.158892s
+3D重构循环第19次:
+good_keyframes_number: 10
+当前时刻: 7.936093s
+matchImage use time: 0.528938s
+reconstruct3Dlines use time: 0.153031s
+3D重构循环第20次:
+good_keyframes_number: 10
+当前时刻: 8.694743s
+matchImage use time: 0.614996s
+reconstruct3Dlines use time: 0.170455s
+3D重构循环第21次:
+good_keyframes_number: 11
+当前时刻: 9.542937s
+matchImage use time: 0.582975s
+reconstruct3Dlines use time: 0.187112s
+3D重构循环第22次:
+good_keyframes_number: 13
+当前时刻: 10.462218s
+matchImage use time: 0.790145s
+reconstruct3Dlines use time: 0.215806s
+3D重构循环第23次:
+good_keyframes_number: 12
+当前时刻: 11.500423s
+matchImage use time: 0.426179s
+reconstruct3Dlines use time: 0.168921s
+3D重构循环第24次:
+good_keyframes_number: 14
+当前时刻: 12.244780s
+matchImage use time: 0.753405s
+reconstruct3Dlines use time: 0.186839s
+3D重构循环第25次:
+good_keyframes_number: 15
+当前时刻: 13.244667s
+matchImage use time: 0.650111s
+reconstruct3Dlines use time: 0.189443s
+3D重构循环第26次:
+good_keyframes_number: 13
+当前时刻: 14.140464s
+matchImage use time: 0.602518s
+reconstruct3Dlines use time: 0.174706s
+3D重构循环第27次:
+good_keyframes_number: 14
+当前时刻: 14.998307s
+matchImage use time: 0.482798s
+reconstruct3Dlines use time: 0.188282s
+3D重构循环第28次:
+good_keyframes_number: 14
+当前时刻: 15.743822s
+matchImage use time: 0.659100s
+reconstruct3Dlines use time: 0.199704s
+3D重构循环第29次:
+good_keyframes_number: 13
+当前时刻: 16.659091s
+matchImage use time: 0.519816s
+reconstruct3Dlines use time: 0.213766s
+3D重构循环第30次:
+good_keyframes_number: 13
+当前时刻: 17.450419s
+matchImage use time: 0.484088s
+reconstruct3Dlines use time: 0.178712s
+3D重构循环第31次:
+good_keyframes_number: 13
+当前时刻: 18.185541s
+matchImage use time: 0.470750s
+reconstruct3Dlines use time: 0.224862s
+3D重构循环第32次:
+good_keyframes_number: 15
+当前时刻: 19.408235s
+matchImage use time: 0.635944s
+reconstruct3Dlines use time: 0.250632s
+3D重构循环第33次:
+good_keyframes_number: 16
+当前时刻: 20.361181s
+matchImage use time: 0.609455s
+reconstruct3Dlines use time: 0.278185s
+3D重构循环第34次:
+good_keyframes_number: 16
+当前时刻: 21.291931s
+matchImage use time: 0.515881s
+reconstruct3Dlines use time: 0.226920s
+3D重构循环第35次:
+good_keyframes_number: 16
+当前时刻: 22.152863s
+matchImage use time: 0.748533s
+reconstruct3Dlines use time: 0.227374s
+3D重构循环第36次:
+good_keyframes_number: 17
+当前时刻: 23.242752s
+matchImage use time: 0.818498s
+reconstruct3Dlines use time: 0.250753s
+3D重构循环第37次:
+good_keyframes_number: 17
+当前时刻: 24.423245s
+matchImage use time: 0.819723s
+reconstruct3Dlines use time: 0.248401s
+3D重构循环第38次:
+good_keyframes_number: 17
+当前时刻: 25.581172s
+matchImage use time: 0.896539s
+reconstruct3Dlines use time: 0.325081s
+3D重构循环第39次:
+good_keyframes_number: 17
+当前时刻: 26.920606s
+matchImage use time: 0.918817s
+reconstruct3Dlines use time: 0.264926s
+3D重构循环第40次:
+开始记录时间: 
+3D重构循环第0次:
+good_keyframes_number: 5
+当前时刻: 2.916115s
+matchImage use time: 0.375271s
+reconstruct3Dlines use time: 0.059195s
+3D重构循环第1次:
+good_keyframes_number: 5
+当前时刻: 3.380815s
+matchImage use time: 0.164697s
+reconstruct3Dlines use time: 0.029571s
+3D重构循环第2次:
+good_keyframes_number: 5
+当前时刻: 3.620602s
+matchImage use time: 0.155737s
+reconstruct3Dlines use time: 0.037095s
+3D重构循环第3次:
+good_keyframes_number: 6
+当前时刻: 3.910081s
+matchImage use time: 0.212456s
+reconstruct3Dlines use time: 0.056582s
+3D重构循环第4次:
+good_keyframes_number: 6
+当前时刻: 4.209703s
+matchImage use time: 0.198298s
+reconstruct3Dlines use time: 0.069994s
+3D重构循环第5次:
+good_keyframes_number: 6
+当前时刻: 4.531992s
+matchImage use time: 0.208394s
+reconstruct3Dlines use time: 0.065876s
+3D重构循环第6次:
+good_keyframes_number: 7
+当前时刻: 4.894116s
+matchImage use time: 0.320585s
+reconstruct3Dlines use time: 0.051996s
+3D重构循环第7次:
+good_keyframes_number: 7
+当前时刻: 5.317368s
+matchImage use time: 0.222030s
+reconstruct3Dlines use time: 0.081667s
+3D重构循环第8次:
+good_keyframes_number: 8
+当前时刻: 5.670113s
+matchImage use time: 0.300638s
+reconstruct3Dlines use time: 0.073292s
+3D重构循环第9次:
+good_keyframes_number: 7
+当前时刻: 6.107936s
+matchImage use time: 0.259190s
+reconstruct3Dlines use time: 0.097552s
+3D重构循环第10次:
+good_keyframes_number: 8
+当前时刻: 6.525415s
+matchImage use time: 0.270578s
+reconstruct3Dlines use time: 0.098966s
+3D重构循环第11次:
+good_keyframes_number: 8
+当前时刻: 6.946202s
+matchImage use time: 0.370261s
+reconstruct3Dlines use time: 0.105701s
+3D重构循环第12次:
+good_keyframes_number: 9
+当前时刻: 7.482222s
+matchImage use time: 0.395319s
+reconstruct3Dlines use time: 0.116932s
+3D重构循环第13次:
+good_keyframes_number: 9
+当前时刻: 8.052514s
+matchImage use time: 0.360034s
+reconstruct3Dlines use time: 0.148072s
+3D重构循环第14次:
+good_keyframes_number: 9
+当前时刻: 8.630090s
+matchImage use time: 0.378563s
+reconstruct3Dlines use time: 0.117360s
+3D重构循环第15次:
+good_keyframes_number: 10
+当前时刻: 9.172411s
+matchImage use time: 0.405239s
+reconstruct3Dlines use time: 0.114597s
+3D重构循环第16次:
+good_keyframes_number: 11
+当前时刻: 9.758276s
+matchImage use time: 0.415244s
+reconstruct3Dlines use time: 0.130401s
+3D重构循环第17次:
+good_keyframes_number: 11
+当前时刻: 10.353159s
+matchImage use time: 0.493114s
+reconstruct3Dlines use time: 0.133246s
+3D重构循环第18次:
+good_keyframes_number: 12
+当前时刻: 11.033871s
+matchImage use time: 0.632605s
+reconstruct3Dlines use time: 0.147848s
+3D重构循环第19次:
+good_keyframes_number: 13
+当前时刻: 11.869931s
+matchImage use time: 0.506244s
+reconstruct3Dlines use time: 0.183046s
+3D重构循环第20次:
+good_keyframes_number: 14
+当前时刻: 12.617742s
+matchImage use time: 0.594987s
+reconstruct3Dlines use time: 0.206648s
+3D重构循环第21次:
+good_keyframes_number: 14
+当前时刻: 13.491050s
+matchImage use time: 0.584994s
+reconstruct3Dlines use time: 0.172110s
+3D重构循环第22次:
+good_keyframes_number: 14
+当前时刻: 14.369399s
+matchImage use time: 0.650990s
+reconstruct3Dlines use time: 0.203733s
+3D重构循环第23次:
+good_keyframes_number: 14
+当前时刻: 15.310153s
+matchImage use time: 0.752101s
+reconstruct3Dlines use time: 0.206571s
+3D重构循环第24次:
+good_keyframes_number: 15
+当前时刻: 16.337405s
+matchImage use time: 0.578413s
+reconstruct3Dlines use time: 0.171267s
+3D重构循环第25次:
+good_keyframes_number: 16
+当前时刻: 17.198155s
+matchImage use time: 0.756606s
+reconstruct3Dlines use time: 0.229929s
+3D重构循环第26次:
+good_keyframes_number: 14
+当前时刻: 18.221366s
+matchImage use time: 0.483044s
+reconstruct3Dlines use time: 0.207090s
+3D重构循环第27次:
+good_keyframes_number: 16
+当前时刻: 19.020958s
+matchImage use time: 0.682174s
+reconstruct3Dlines use time: 0.207490s
+3D重构循环第28次:
+good_keyframes_number: 15
+当前时刻: 19.989626s
+matchImage use time: 0.580856s
+reconstruct3Dlines use time: 0.201636s
+3D重构循环第29次:
+good_keyframes_number: 16
+当前时刻: 20.855898s
+matchImage use time: 0.747363s
+reconstruct3Dlines use time: 0.232013s
+3D重构循环第30次:
+开始记录时间: 
+3D重构循环第0次:
+good_keyframes_number: 5
+当前时刻: 8.170486s
+matchImage use time: 0.218438s
+reconstruct3Dlines use time: 0.026664s
+3D重构循环第1次:
+good_keyframes_number: 5
+当前时刻: 8.436848s
+matchImage use time: 0.140757s
+reconstruct3Dlines use time: 0.029199s
+3D重构循环第2次:
+good_keyframes_number: 5
+当前时刻: 8.657928s
+matchImage use time: 0.131146s
+reconstruct3Dlines use time: 0.025335s
+3D重构循环第3次:
+good_keyframes_number: 6
+当前时刻: 8.975560s
+matchImage use time: 0.154017s
+reconstruct3Dlines use time: 0.028395s
+3D重构循环第4次:
+good_keyframes_number: 6
+当前时刻: 9.187575s
+matchImage use time: 0.232549s
+reconstruct3Dlines use time: 0.053763s
+3D重构循环第5次:
+good_keyframes_number: 6
+当前时刻: 9.496664s
+matchImage use time: 0.180686s
+reconstruct3Dlines use time: 0.050754s
+3D重构循环第6次:
+good_keyframes_number: 7
+当前时刻: 9.776480s
+matchImage use time: 0.268863s
+reconstruct3Dlines use time: 0.078893s
+3D重构循环第7次:
+good_keyframes_number: 7
+当前时刻: 10.149395s
+matchImage use time: 0.204187s
+reconstruct3Dlines use time: 0.097452s
+3D重构循环第8次:
+good_keyframes_number: 7
+当前时刻: 10.518476s
+matchImage use time: 0.259547s
+reconstruct3Dlines use time: 0.084434s
+3D重构循环第9次:
+good_keyframes_number: 7
+当前时刻: 10.930386s
+matchImage use time: 0.263155s
+reconstruct3Dlines use time: 0.095673s
+3D重构循环第10次:
+good_keyframes_number: 8
+当前时刻: 11.351199s
+matchImage use time: 0.296704s
+reconstruct3Dlines use time: 0.071113s
+3D重构循环第11次:
+good_keyframes_number: 8
+当前时刻: 11.778630s
+matchImage use time: 0.316134s
+reconstruct3Dlines use time: 0.081486s
+3D重构循环第12次:
+good_keyframes_number: 9
+当前时刻: 12.342314s
+matchImage use time: 0.415110s
+reconstruct3Dlines use time: 0.079849s
+3D重构循环第13次:
+good_keyframes_number: 9
+当前时刻: 12.876026s
+matchImage use time: 0.287405s
+reconstruct3Dlines use time: 0.084132s
+3D重构循环第14次:
+good_keyframes_number: 10
+当前时刻: 13.295548s
+matchImage use time: 0.441898s
+reconstruct3Dlines use time: 0.135215s
+3D重构循环第15次:
+good_keyframes_number: 11
+当前时刻: 13.950097s
+matchImage use time: 0.523552s
+reconstruct3Dlines use time: 0.142192s
+3D重构循环第16次:
+good_keyframes_number: 12
+当前时刻: 14.690687s
+matchImage use time: 0.552562s
+reconstruct3Dlines use time: 0.127495s
+3D重构循环第17次:
+good_keyframes_number: 12
+当前时刻: 15.410929s
+matchImage use time: 0.428435s
+reconstruct3Dlines use time: 0.126096s
+3D重构循环第18次:
+good_keyframes_number: 12
+当前时刻: 16.027429s
+matchImage use time: 0.497793s
+reconstruct3Dlines use time: 0.146429s
+3D重构循环第19次:
+good_keyframes_number: 12
+当前时刻: 16.748494s
+matchImage use time: 0.475242s
+reconstruct3Dlines use time: 0.150125s
+3D重构循环第20次:
+good_keyframes_number: 12
+当前时刻: 17.430878s
+matchImage use time: 0.480599s
+reconstruct3Dlines use time: 0.154962s
+3D重构循环第21次:
+good_keyframes_number: 13
+当前时刻: 18.145354s
+matchImage use time: 0.568806s
+reconstruct3Dlines use time: 0.157142s
+3D重构循环第22次:
+good_keyframes_number: 13
+当前时刻: 18.950532s
+matchImage use time: 0.503129s
+reconstruct3Dlines use time: 0.187114s
+3D重构循环第23次:
+good_keyframes_number: 13
+当前时刻: 19.726418s
+matchImage use time: 0.407999s
+reconstruct3Dlines use time: 0.142484s
+3D重构循环第24次:
+good_keyframes_number: 13
+当前时刻: 20.351265s
+matchImage use time: 0.477622s
+reconstruct3Dlines use time: 0.184696s
+3D重构循环第25次:
+good_keyframes_number: 13
+当前时刻: 21.057840s
+matchImage use time: 0.397564s
+reconstruct3Dlines use time: 0.190970s
+3D重构循环第26次:
+good_keyframes_number: 14
+当前时刻: 21.704967s
+matchImage use time: 0.498815s
+reconstruct3Dlines use time: 0.212801s
+3D重构循环第27次:
+good_keyframes_number: 14
+当前时刻: 22.506875s
+matchImage use time: 0.689819s
+reconstruct3Dlines use time: 0.184767s
+3D重构循环第28次:
+good_keyframes_number: 14
+当前时刻: 23.458618s
+matchImage use time: 0.656694s
+reconstruct3Dlines use time: 0.254122s
+3D重构循环第29次:
+good_keyframes_number: 15
+当前时刻: 24.475504s
+matchImage use time: 0.810723s
+reconstruct3Dlines use time: 0.237596s
+3D重构循环第30次:
+good_keyframes_number: 15
+当前时刻: 25.632244s
+matchImage use time: 0.721154s
+reconstruct3Dlines use time: 0.202539s
+3D重构循环第31次:
+good_keyframes_number: 16
+当前时刻: 26.652686s
+matchImage use time: 0.818034s
+reconstruct3Dlines use time: 0.214083s
+3D重构循环第32次:
+good_keyframes_number: 16
+当前时刻: 27.763964s
+matchImage use time: 0.689044s
+reconstruct3Dlines use time: 0.252992s
+3D重构循环第33次:
+good_keyframes_number: 17
+当前时刻: 28.804057s
+matchImage use time: 0.813711s
+reconstruct3Dlines use time: 0.208776s
+3D重构循环第34次:
+good_keyframes_number: 17
+当前时刻: 29.928869s
+matchImage use time: 0.840856s
+reconstruct3Dlines use time: 0.274980s
+3D重构循环第35次:
+good_keyframes_number: 18
+当前时刻: 31.204468s
+matchImage use time: 1.031180s
+reconstruct3Dlines use time: 0.264925s
+3D重构循环第36次:
+good_keyframes_number: 19
+当前时刻: 32.612730s
+matchImage use time: 0.918251s
+reconstruct3Dlines use time: 0.303266s
+3D重构循环第37次:
+good_keyframes_number: 20
+当前时刻: 33.952287s
+matchImage use time: 1.137769s
+reconstruct3Dlines use time: 0.338307s
+3D重构循环第38次:
+good_keyframes_number: 20
+当前时刻: 35.529815s
+matchImage use time: 0.922172s
+reconstruct3Dlines use time: 0.268230s
+3D重构循环第39次:
+good_keyframes_number: 19
+当前时刻: 36.796140s
+matchImage use time: 0.827119s
+reconstruct3Dlines use time: 0.368363s
+3D重构循环第40次:
+good_keyframes_number: 20
+当前时刻: 38.053742s
+matchImage use time: 0.889679s
+reconstruct3Dlines use time: 0.335228s
+3D重构循环第41次:
+good_keyframes_number: 18
+当前时刻: 39.325935s
+matchImage use time: 0.541168s
+reconstruct3Dlines use time: 0.409078s
+3D重构循环第42次:
+good_keyframes_number: 20
+当前时刻: 40.368172s
+matchImage use time: 1.062674s
+reconstruct3Dlines use time: 0.380775s
+3D重构循环第43次:
+good_keyframes_number: 20
+当前时刻: 41.908824s
+matchImage use time: 0.748892s
+reconstruct3Dlines use time: 0.403830s
+3D重构循环第44次:
+good_keyframes_number: 19
+当前时刻: 43.107112s
+matchImage use time: 0.542642s
+reconstruct3Dlines use time: 0.366091s
+3D重构循环第45次:
+good_keyframes_number: 19
+当前时刻: 44.139861s
+matchImage use time: 1.071088s
+开始记录时间: 
+3D重构循环第0次:
+good_keyframes_number: 4
+当前时刻: 2.575341s
+matchImage use time: 0.186532s
+reconstruct3Dlines use time: 0.035517s
+3D重构循环第1次:
+good_keyframes_number: 5
+当前时刻: 2.847426s
+matchImage use time: 0.194410s
+reconstruct3Dlines use time: 0.028924s
+3D重构循环第2次:
+good_keyframes_number: 5
+当前时刻: 3.160278s
+matchImage use time: 0.274164s
+reconstruct3Dlines use time: 0.045072s
+3D重构循环第3次:
+good_keyframes_number: 7
+当前时刻: 3.551964s
+matchImage use time: 0.355246s
+reconstruct3Dlines use time: 0.060193s
+3D重构循环第4次:
+good_keyframes_number: 7
+当前时刻: 4.010267s
+matchImage use time: 0.253351s
+reconstruct3Dlines use time: 0.043666s
+3D重构循环第5次:
+good_keyframes_number: 7
+当前时刻: 4.386009s
+matchImage use time: 0.318120s
+reconstruct3Dlines use time: 0.059881s
+3D重构循环第6次:
+good_keyframes_number: 7
+当前时刻: 4.836832s
+matchImage use time: 0.354326s
+reconstruct3Dlines use time: 0.066167s
+3D重构循环第7次:
+good_keyframes_number: 7
+当前时刻: 5.326531s
+matchImage use time: 0.385032s
+reconstruct3Dlines use time: 0.079871s
+3D重构循环第8次:
+good_keyframes_number: 7
+当前时刻: 5.862225s
+matchImage use time: 0.393277s
+reconstruct3Dlines use time: 0.097082s
+3D重构循环第9次:
+good_keyframes_number: 8
+当前时刻: 6.444974s
+matchImage use time: 0.473975s
+reconstruct3Dlines use time: 0.114679s
+3D重构循环第10次:
+good_keyframes_number: 8
+当前时刻: 7.143683s
+matchImage use time: 0.513139s
+reconstruct3Dlines use time: 0.079303s
+3D重构循环第11次:
+good_keyframes_number: 9
+当前时刻: 7.855645s
+matchImage use time: 0.659252s
+reconstruct3Dlines use time: 0.106764s
+3D重构循环第12次:
+good_keyframes_number: 9
+当前时刻: 8.684547s
+matchImage use time: 0.376871s
+reconstruct3Dlines use time: 0.123568s
+3D重构循环第13次:
+good_keyframes_number: 11
+当前时刻: 9.401664s
+matchImage use time: 0.938717s
+reconstruct3Dlines use time: 0.167823s
+3D重构循环第14次:
+good_keyframes_number: 11
+当前时刻: 10.566698s
+matchImage use time: 0.530145s
+reconstruct3Dlines use time: 0.140772s
+3D重构循环第15次:
+good_keyframes_number: 11
+当前时刻: 11.359991s
+matchImage use time: 1.024889s
+reconstruct3Dlines use time: 0.179447s
+3D重构循环第16次:
+good_keyframes_number: 12
+当前时刻: 12.730048s
+matchImage use time: 1.029740s
+reconstruct3Dlines use time: 0.165232s
+3D重构循环第17次:
+good_keyframes_number: 12
+当前时刻: 14.134412s
+matchImage use time: 1.365954s
+reconstruct3Dlines use time: 0.199881s
+3D重构循环第18次:
+good_keyframes_number: 14
+当前时刻: 15.870051s
+matchImage use time: 1.560864s
+reconstruct3Dlines use time: 0.227242s
+3D重构循环第19次:
+good_keyframes_number: 15
+当前时刻: 17.833919s
+matchImage use time: 1.265427s
+reconstruct3Dlines use time: 0.209369s
+3D重构循环第20次:
+good_keyframes_number: 15
+当前时刻: 19.522945s
+matchImage use time: 1.454612s
+reconstruct3Dlines use time: 0.228912s
+3D重构循环第21次:
+good_keyframes_number: 16
+当前时刻: 21.383756s
+matchImage use time: 1.244607s
+reconstruct3Dlines use time: 0.245783s
+3D重构循环第22次:
+good_keyframes_number: 17
+当前时刻: 23.148052s
+matchImage use time: 1.664251s
+reconstruct3Dlines use time: 0.281320s
+3D重构循环第23次:
+good_keyframes_number: 17
+当前时刻: 25.323655s
+matchImage use time: 1.532136s
+reconstruct3Dlines use time: 0.274510s
+3D重构循环第24次:
+good_keyframes_number: 18
+当前时刻: 27.312495s
+matchImage use time: 1.357306s
+reconstruct3Dlines use time: 0.324134s
+3D重构循环第25次:
+good_keyframes_number: 19
+当前时刻: 29.225062s
+matchImage use time: 1.407706s
+reconstruct3Dlines use time: 0.280082s
+3D重构循环第26次:
+good_keyframes_number: 20
+当前时刻: 31.035108s
+matchImage use time: 1.201652s
+reconstruct3Dlines use time: 0.317820s
+3D重构循环第27次:
+good_keyframes_number: 19
+当前时刻: 32.724882s
+matchImage use time: 1.287796s
+reconstruct3Dlines use time: 0.412069s
+3D重构循环第28次:
+good_keyframes_number: 19
+当前时刻: 34.573951s
+matchImage use time: 1.179522s
+reconstruct3Dlines use time: 0.389135s
+3D重构循环第29次:
+good_keyframes_number: 20
+当前时刻: 36.295169s
+matchImage use time: 1.309459s
+reconstruct3Dlines use time: 0.403694s
+3D重构循环第30次:
+good_keyframes_number: 18
+当前时刻: 38.069062s
+matchImage use time: 0.973575s
+reconstruct3Dlines use time: 0.415647s
+3D重构循环第31次:
+good_keyframes_number: 20
+当前时刻: 39.624180s
+matchImage use time: 1.270782s
+reconstruct3Dlines use time: 0.336538s
+3D重构循环第32次:
+good_keyframes_number: 20
+当前时刻: 41.392006s
+matchImage use time: 1.362833s
+reconstruct3Dlines use time: 0.442667s
+3D重构循环第33次:
+good_keyframes_number: 20
+当前时刻: 43.332248s
+matchImage use time: 0.998981s
+reconstruct3Dlines use time: 0.456208s
+3D重构循环第34次:
+good_keyframes_number: 19
+当前时刻: 44.899891s
+matchImage use time: 0.946354s
+reconstruct3Dlines use time: 0.458819s
+3D重构循环第35次:
+good_keyframes_number: 20
+当前时刻: 46.483538s
+matchImage use time: 1.152470s
+reconstruct3Dlines use time: 0.519193s
+3D重构循环第36次:
+good_keyframes_number: 20
+当前时刻: 48.261761s
+matchImage use time: 0.938711s
+reconstruct3Dlines use time: 0.493884s
+3D重构循环第37次:
+good_keyframes_number: 19
+当前时刻: 49.895330s
+matchImage use time: 0.999018s
+reconstruct3Dlines use time: 0.215117s
+3D重构循环第38次:
+good_keyframes_number: 19
+当前时刻: 51.183234s
+matchImage use time: 0.268566s
+reconstruct3Dlines use time: 0.164121s
+开始记录时间: 
+3D重构循环第0次:
+good_keyframes_number: 4
+当前时刻: 2.524000s
+matchImage use time: 0.319487s
+reconstruct3Dlines use time: 0.082619s
+3D重构循环第1次:
+good_keyframes_number: 5
+当前时刻: 3.021680s
+matchImage use time: 0.328283s
+reconstruct3Dlines use time: 0.059719s
+3D重构循环第2次:
+good_keyframes_number: 6
+当前时刻: 3.537879s
+matchImage use time: 0.406969s
+reconstruct3Dlines use time: 0.086485s
+3D重构循环第3次:
+good_keyframes_number: 7
+当前时刻: 4.130305s
+matchImage use time: 0.508104s
+reconstruct3Dlines use time: 0.037867s
+3D重构循环第4次:
+good_keyframes_number: 7
+当前时刻: 4.757746s
+matchImage use time: 0.429777s
+reconstruct3Dlines use time: 0.127895s
+3D重构循环第5次:
+good_keyframes_number: 7
+当前时刻: 5.409429s
+matchImage use time: 0.497508s
+reconstruct3Dlines use time: 0.091290s
+3D重构循环第6次:
+good_keyframes_number: 8
+当前时刻: 6.092113s
+matchImage use time: 0.594936s
+reconstruct3Dlines use time: 0.132593s
+3D重构循环第7次:
+good_keyframes_number: 8
+当前时刻: 6.920794s
+matchImage use time: 0.681352s
+reconstruct3Dlines use time: 0.136443s
+3D重构循环第8次:
+good_keyframes_number: 9
+当前时刻: 7.854834s
+matchImage use time: 0.712534s
+reconstruct3Dlines use time: 0.114009s
+3D重构循环第9次:
+good_keyframes_number: 9
+当前时刻: 8.763869s
+matchImage use time: 0.639497s
+reconstruct3Dlines use time: 0.114333s
+3D重构循环第10次:
+good_keyframes_number: 9
+当前时刻: 9.705826s
+matchImage use time: 0.866084s
+reconstruct3Dlines use time: 0.227733s
+3D重构循环第11次:
+good_keyframes_number: 9
+当前时刻: 10.863557s
+matchImage use time: 0.495112s
+reconstruct3Dlines use time: 0.167828s
+3D重构循环第12次:
+good_keyframes_number: 10
+当前时刻: 11.691404s
+matchImage use time: 1.013748s
+reconstruct3Dlines use time: 0.223239s
+3D重构循环第13次:
+good_keyframes_number: 11
+当前时刻: 13.048563s
+matchImage use time: 1.006841s
+reconstruct3Dlines use time: 0.253737s
+3D重构循环第14次:
+good_keyframes_number: 12
+当前时刻: 14.411589s
+matchImage use time: 1.193728s
+reconstruct3Dlines use time: 0.242963s
+3D重构循环第15次:
+good_keyframes_number: 12
+当前时刻: 15.997725s
+matchImage use time: 1.390012s
+reconstruct3Dlines use time: 0.254994s
+3D重构循环第16次:
+good_keyframes_number: 13
+当前时刻: 17.791451s
+matchImage use time: 1.722544s
+reconstruct3Dlines use time: 0.317635s
+3D重构循环第17次:
+good_keyframes_number: 14
+当前时刻: 20.046760s
+matchImage use time: 1.535875s
+reconstruct3Dlines use time: 0.346613s
+3D重构循环第18次:
+good_keyframes_number: 14
+当前时刻: 22.120076s
+matchImage use time: 1.676997s
+reconstruct3Dlines use time: 0.276637s
+3D重构循环第19次:
+good_keyframes_number: 15
+当前时刻: 24.396719s
+matchImage use time: 2.116080s
+reconstruct3Dlines use time: 0.412510s
+3D重构循环第20次:
+good_keyframes_number: 15
+当前时刻: 27.181172s
+matchImage use time: 2.223400s
+reconstruct3Dlines use time: 0.342532s
+3D重构循环第21次:
+good_keyframes_number: 16
+当前时刻: 29.916240s
+matchImage use time: 1.559115s
+reconstruct3Dlines use time: 0.414358s
+3D重构循环第22次:
+good_keyframes_number: 17
+当前时刻: 32.188901s
+matchImage use time: 2.649637s
+reconstruct3Dlines use time: 0.484098s
+3D重构循环第23次:
+good_keyframes_number: 17
+当前时刻: 35.549123s
+matchImage use time: 1.894313s
+reconstruct3Dlines use time: 0.326367s
+3D重构循环第24次:
+good_keyframes_number: 20
+当前时刻: 38.081692s
+matchImage use time: 1.971681s
+reconstruct3Dlines use time: 0.516851s
+3D重构循环第25次:
+good_keyframes_number: 20
+当前时刻: 40.799664s
+matchImage use time: 1.830143s
+reconstruct3Dlines use time: 0.540179s
+3D重构循环第26次:
+good_keyframes_number: 19
+当前时刻: 43.371832s
+matchImage use time: 1.917785s
+reconstruct3Dlines use time: 0.528114s
+3D重构循环第27次:
+good_keyframes_number: 20
+当前时刻: 46.035996s
+matchImage use time: 1.651129s
+reconstruct3Dlines use time: 0.506151s
+3D重构循环第28次:
+good_keyframes_number: 18
+当前时刻: 48.374597s
+matchImage use time: 1.452621s
+reconstruct3Dlines use time: 0.563812s
+3D重构循环第29次:
+good_keyframes_number: 18
+当前时刻: 50.552576s
+matchImage use time: 1.449034s
+reconstruct3Dlines use time: 0.527673s
+3D重构循环第30次:
+good_keyframes_number: 19
+当前时刻: 52.784952s
+matchImage use time: 1.839225s
+reconstruct3Dlines use time: 0.655184s
+3D重构循环第31次:
+good_keyframes_number: 19
+当前时刻: 55.470321s
+matchImage use time: 1.878276s
+reconstruct3Dlines use time: 0.747137s
+3D重构循环第32次:
+good_keyframes_number: 20
+当前时刻: 58.284684s
+matchImage use time: 1.762195s
+reconstruct3Dlines use time: 0.601897s
+3D重构循环第33次:
+good_keyframes_number: 19
+当前时刻: 60.814412s
+matchImage use time: 1.690091s
+reconstruct3Dlines use time: 0.607179s
+3D重构循环第34次:
+good_keyframes_number: 20
+当前时刻: 63.311827s
+matchImage use time: 1.510057s
+reconstruct3Dlines use time: 0.641514s
+3D重构循环第35次:
+good_keyframes_number: 20
+当前时刻: 65.642332s
+matchImage use time: 1.630865s
+reconstruct3Dlines use time: 0.492136s
+3D重构循环第36次:
+good_keyframes_number: 19
+当前时刻: 67.886646s
+matchImage use time: 0.919333s
+reconstruct3Dlines use time: 0.224094s
+3D重构循环第37次:
+good_keyframes_number: 19
+当前时刻: 69.085623s
+matchImage use time: 0.238608s
+reconstruct3Dlines use time: 0.223707s

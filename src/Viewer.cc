@@ -66,10 +66,10 @@ void Viewer::Run()
     glBlendFunc (GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
 
     pangolin::CreatePanel("menu").SetBounds(0.0,1.0,0.0,pangolin::Attach::Pix(175));
-    pangolin::Var<bool> menuFollowCamera("menu.Follow Camera",false,true);
-    pangolin::Var<bool> menuShowPoints("menu.Show Points",false,true);
-    pangolin::Var<bool> menuShowKeyFrames("menu.Show KeyFrames",false,true);
-    pangolin::Var<bool> menuShowGraph("menu.Show Graph",false,true);
+    pangolin::Var<bool> menuFollowCamera("menu.Follow Camera",true,true);
+    pangolin::Var<bool> menuShowPoints("menu.Show Points",true,true);
+    pangolin::Var<bool> menuShowKeyFrames("menu.Show KeyFrames",true,true);
+    pangolin::Var<bool> menuShowGraph("menu.Show Graph",true,true);
     pangolin::Var<bool> menuLocalizationMode("menu.Localization Mode",false,true);
     pangolin::Var<bool> menuReset("menu.Reset",false,false);
 
@@ -127,10 +127,10 @@ void Viewer::Run()
         d_cam.Activate(s_cam);
         glClearColor(1.0f,1.0f,1.0f,1.0f);
         mpMapDrawer->DrawCurrentCamera(Twc);
-      //  if(menuShowKeyFrames || menuShowGraph)
-        //    mpMapDrawer->DrawKeyFrames(menuShowKeyFrames,menuShowGraph);
-      //  if(menuShowPoints)
-         //   mpMapDrawer->DrawMapPoints();
+        if(menuShowKeyFrames || menuShowGraph)
+            mpMapDrawer->DrawKeyFrames(menuShowKeyFrames,menuShowGraph);
+        if(menuShowPoints)
+            mpMapDrawer->DrawMapPoints();
 	mpMapDrawer->Draw3DLines(Twc);
 
         pangolin::FinishFrame();
