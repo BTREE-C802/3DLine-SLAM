@@ -1,4 +1,4 @@
-#环境需求库或软件
+# 环境需求库或软件
 
 ##Basic:
 
@@ -27,7 +27,7 @@
     Ceres-Solver=={1.8.0, 1.12.0}
 
 
-#1：Pangolin安装：
+# 1：Pangolin安装：
 **1、下载安装包：
 
 git clone https://github.com/stevenlovegrove/Pangolin.git
@@ -58,7 +58,7 @@ make（或者用cmake --build .）
 sudo make install (.h默认安装到了/usr/local/include）
 ***安装方法参考：https://www.cnblogs.com/liufuqiang/p/5618335.html
 
-#2：Boost安装:
+# 2：Boost安装:
 wget https://dl.bintray.com/boostorg/release/1.64.0/source/boost_1_64_0.tar.gz
 tar zxvf boost_1_64_0.tar.gz
 cd boost_1_64_0.tar.gz
@@ -71,7 +71,7 @@ cd boost_1_64_0.tar.gz
 **最后，如果安装后想马上使用boost库进行编译，还需要执行一下这个命令：
 ***参考安装：https://blog.csdn.net/u011641865/article/details/73498533
 
-#3：Eigen3安装：
+# 3：Eigen3安装：
 1.安装：sudo apt-get install libeigen3-dev
 2 调整，默认安装路径是：/usr/include/eigen3
 cd /usr/include/eigen3
