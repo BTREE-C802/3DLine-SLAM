@@ -39,6 +39,7 @@ git clone https://github.com/stevenlovegrove/Pangolin.git
 　　安装Cmake:：https://www.cnblogs.com/liufuqiang/p/5618335.html
 
 ```
+
 # 2：Boost安装:
 ```
 wget https://dl.bintray.com/boostorg/release/1.64.0/source/boost_1_64_0.tar.gz
@@ -48,14 +49,18 @@ cd boost_1_64_0.tar.gz
 ```
 **编译：**
 ./b2 toolset=gcc
+
 **安装：**
 ./b2 install --prefix=/usr  ##--prefix=/usr用来指定boost的安装目录，不加此参数的话默认的头文件在/usr/local/include/boost目录下，库文件在/usr/local/lib/目录下。这里把安装目录指定为--prefix=/usr则boost会直接安装到系统头文件目录和库文件目录下，可以省略配置环境变量。
 **最后，如果安装后想马上使用boost库进行编译，还需要执行一下这个命令：**
+
 ***参考安装：https://blog.csdn.net/u011641865/article/details/73498533***
 
 # 3：Eigen3安装：
+
 **1.安装：**
 sudo apt-get install libeigen3-dev
+
 **2 调整，默认安装路径是：**
 ```
 /usr/include/eigen3
@@ -65,6 +70,7 @@ $Series:/usr/include/eigen3目录下 ls
 ```
 **3.需要执行复制命令，将Eigen文件夹放在/usr/include 下面**
 sudo cp Eigen/ .. -R
+
 **4.  编写文件进行测试vi myeigen.c**
 ```
 #include <iostream>
@@ -80,10 +86,13 @@ m(1,1) = m(1,0) + m(0,1);
 std::cout << m << std::endl;
 }
 ```
+
 **5. 编译。**
 g++  myeigen.c -o myeigen
+
 **6.运行。**
  ./myeigen
+
 **7. 结果。**
 ```
  3  -1
