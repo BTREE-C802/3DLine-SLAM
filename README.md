@@ -1,7 +1,7 @@
 # 环境需求库或软件
 
-##Basic:
-
+## Basic:
+```
     CMake (to generate the Makefiles)
     Pangolin
     Boost
@@ -10,22 +10,22 @@
     ROS
     OpenCV
     tclap (for the executables only)
-    
-##Optional (but recommended!):
-
+ ```   
+## Optional (but recommended!):
+```
     CUDA (optional)
     OpenMP (optional)
     Ceres-Solver (optional, must be built as shared library on UNIX systems!)
     RapidJSON (optional, for OpenMVG executable only)
-    
+```    
 ***The code has been tested under Ubuntu 14.04 LTS with the following versions:
-
+```
     Boost==1.55.0
     Eigen==3.2.0
     OpenCV=={2.4.10, 3.0}
     CUDA=={5.0, 5.5, 6.0}
     Ceres-Solver=={1.8.0, 1.12.0}
-
+```
 
 # 1：Pangolin安装：
 **1、下载安装包：**
@@ -37,24 +37,8 @@ C++11(编译器要有对这个特性的支持)
 
 sudo apt-get install libglew-dev
 
-　　安装Cmake:
+　　安装Cmake:：https://www.cnblogs.com/liufuqiang/p/5618335.html***
 
-sudo apt-get install cmake (一般这个都会有，有的话就不用安装了)
-
-(建议的依赖)Recommended Dependencies：
-　　安装Python2/Python3(for drop-down interactive console):
-
-sudo apt-get install libpython2.7-dev
-
-如果还有其他的需求，可以参考REANDEME.txt文档中对应依赖的安装。
-**3、编译安装Pangolin:**
-cd [path-to-pangolin（Pangolin路径）]//打开解压后的Pangolin文件夹
-mkdir build
-cd build
-cmake ..
-make（或者用cmake --build .）
-sudo make install (.h默认安装到了/usr/local/include）
-***安装方法参考：https://www.cnblogs.com/liufuqiang/p/5618335.html***
 
 # 2：Boost安装:
 wget https://dl.bintray.com/boostorg/release/1.64.0/source/boost_1_64_0.tar.gz
