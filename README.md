@@ -28,11 +28,10 @@
 
 
 # 1：Pangolin安装：
-**1、下载安装包：
-
+**1、下载安装包：**
 git clone https://github.com/stevenlovegrove/Pangolin.git
 
-**2、安装依赖(Required Dependencies):
+**2、安装依赖(Required Dependencies):**
 C++11(编译器要有对这个特性的支持)
 　　安装依赖Glew:
 
@@ -48,15 +47,14 @@ sudo apt-get install cmake (一般这个都会有，有的话就不用安装了)
 sudo apt-get install libpython2.7-dev
 
 如果还有其他的需求，可以参考REANDEME.txt文档中对应依赖的安装。
-**3、编译安装Pangolin:
-
+**3、编译安装Pangolin:**
 cd [path-to-pangolin（Pangolin路径）]//打开解压后的Pangolin文件夹
 mkdir build
 cd build
 cmake ..
 make（或者用cmake --build .）
 sudo make install (.h默认安装到了/usr/local/include）
-***安装方法参考：https://www.cnblogs.com/liufuqiang/p/5618335.html
+***安装方法参考：https://www.cnblogs.com/liufuqiang/p/5618335.html***
 
 # 2：Boost安装:
 wget https://dl.bintray.com/boostorg/release/1.64.0/source/boost_1_64_0.tar.gz
@@ -64,22 +62,24 @@ tar zxvf boost_1_64_0.tar.gz
 cd boost_1_64_0.tar.gz
 ./bootstrap.sh --with-libraries=all --with-toolset=gcc
 
-**编译：
+**编译：**
 ./b2 toolset=gcc
-**安装：
+**安装：**
 ./b2 install --prefix=/usr  ##--prefix=/usr用来指定boost的安装目录，不加此参数的话默认的头文件在/usr/local/include/boost目录下，库文件在/usr/local/lib/目录下。这里把安装目录指定为--prefix=/usr则boost会直接安装到系统头文件目录和库文件目录下，可以省略配置环境变量。
-**最后，如果安装后想马上使用boost库进行编译，还需要执行一下这个命令：
-***参考安装：https://blog.csdn.net/u011641865/article/details/73498533
+**最后，如果安装后想马上使用boost库进行编译，还需要执行一下这个命令：**
+***参考安装：https://blog.csdn.net/u011641865/article/details/73498533***
 
 # 3：Eigen3安装：
-1.安装：sudo apt-get install libeigen3-dev
-2 调整，默认安装路径是：/usr/include/eigen3
+**1.安装：**
+sudo apt-get install libeigen3-dev
+**2 调整，默认安装路径是：**
+/usr/include/eigen3
 cd /usr/include/eigen3
 $Series:/usr/include/eigen3目录下 ls
 显示：Eigen  signature_of_eigen3_matrix_library  unsupported  
-3.需要执行复制命令，将Eigen文件夹放在/usr/include 下面
+**3.需要执行复制命令，将Eigen文件夹放在/usr/include 下面**
 sudo cp Eigen/ .. -R
-4.  编写文件进行测试vi myeigen.c
+**4.  编写文件进行测试vi myeigen.c**
 #include <iostream>
 #include <Eigen/Dense>
 using Eigen::MatrixXd;
@@ -92,11 +92,11 @@ m(0,1) = -1;
 m(1,1) = m(1,0) + m(0,1);
 std::cout << m << std::endl;
 }
-5. 编译。
+**5. 编译。**
 g++  myeigen.c -o myeigen
-6.运行。
+**6.运行。**
  ./myeigen
-7. 结果。
+**7. 结果。**
  3  -1
 2.5 1.5
 
