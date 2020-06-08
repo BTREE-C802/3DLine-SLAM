@@ -1,3 +1,32 @@
+Basic:
+
+    CMake (to generate the Makefiles)
+    Pangolin
+    Boost
+    Eigen3
+    DBoW2 and g2o (Included in Thirdparty folder)
+    ROS
+    OpenCV
+    tclap (for the executables only)
+
+Optional (but recommended!):
+
+    CUDA (optional)
+    OpenMP (optional)
+    Ceres-Solver (optional, must be built as shared library on UNIX systems!)
+    RapidJSON (optional, for OpenMVG executable only)
+
+The code has been tested under Ubuntu 14.04 LTS with the following versions:
+
+    Boost==1.55.0
+    Eigen==3.2.0
+    OpenCV=={2.4.10, 3.0}
+    CUDA=={5.0, 5.5, 6.0}
+    Ceres-Solver=={1.8.0, 1.12.0}
+
+
+
+
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 
