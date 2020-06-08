@@ -18,7 +18,7 @@
     Ceres-Solver (optional, must be built as shared library on UNIX systems!)
     RapidJSON (optional, for OpenMVG executable only)
 ```    
-***The code has been tested under Ubuntu 14.04 LTS with the following versions:
+***The code has been tested under Ubuntu 14.04 LTS with the following versions:***
 ```
     Boost==1.55.0
     Eigen==3.2.0
@@ -32,20 +32,20 @@
 git clone https://github.com/stevenlovegrove/Pangolin.git
 
 **2、安装依赖(Required Dependencies):**
-C++11(编译器要有对这个特性的支持)
+```
+    C++11(编译器要有对这个特性的支持)
 　　安装依赖Glew:
+    sudo apt-get install libglew-dev
+　　安装Cmake:：https://www.cnblogs.com/liufuqiang/p/5618335.html
 
-sudo apt-get install libglew-dev
-
-　　安装Cmake:：https://www.cnblogs.com/liufuqiang/p/5618335.html***
-
-
+```
 # 2：Boost安装:
+```
 wget https://dl.bintray.com/boostorg/release/1.64.0/source/boost_1_64_0.tar.gz
 tar zxvf boost_1_64_0.tar.gz
 cd boost_1_64_0.tar.gz
 ./bootstrap.sh --with-libraries=all --with-toolset=gcc
-
+```
 **编译：**
 ./b2 toolset=gcc
 **安装：**
@@ -57,13 +57,16 @@ cd boost_1_64_0.tar.gz
 **1.安装：**
 sudo apt-get install libeigen3-dev
 **2 调整，默认安装路径是：**
+```
 /usr/include/eigen3
 cd /usr/include/eigen3
 $Series:/usr/include/eigen3目录下 ls
-显示：Eigen  signature_of_eigen3_matrix_library  unsupported  
+显示：Eigen  signature_of_eigen3_matrix_library  unsupported 
+```
 **3.需要执行复制命令，将Eigen文件夹放在/usr/include 下面**
 sudo cp Eigen/ .. -R
 **4.  编写文件进行测试vi myeigen.c**
+```
 #include <iostream>
 #include <Eigen/Dense>
 using Eigen::MatrixXd;
@@ -76,14 +79,16 @@ m(0,1) = -1;
 m(1,1) = m(1,0) + m(0,1);
 std::cout << m << std::endl;
 }
+```
 **5. 编译。**
 g++  myeigen.c -o myeigen
 **6.运行。**
  ./myeigen
 **7. 结果。**
+```
  3  -1
 2.5 1.5
-
+```
 # ORB-SLAM2
 **Authors:** [Raul Mur-Artal](http://webdiis.unizar.es/~raulmur/), [Juan D. Tardos](http://webdiis.unizar.es/~jdtardos/), [J. M. M. Montiel](http://webdiis.unizar.es/~josemari/) and [Dorian Galvez-Lopez](http://doriangalvez.com/) ([DBoW2](https://github.com/dorian3d/DBoW2))
 
